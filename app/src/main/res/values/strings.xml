@@ -1,0 +1,51 @@
+<resources>
+<string name="app_name">ToDo List App</string>
+
+<!-- Tela Principal -->
+<string name="title_my_tasks">Minhas Tarefas</string>
+<string name="add_task">Adicionar tarefa</string>
+<string name="empty_task_list">Nenhuma tarefa cadastrada</string>
+<string name="empty_task_hint">Clique no + para adicionar</string>
+
+<!-- Estatísticas -->
+<string name="stat_total">Total</string>
+<string name="stat_completed">Concluídas</string>
+<string name="stat_pending">Pendentes</string>
+
+<!-- Dialog Nova Tarefa -->
+<string name="dialog_new_task">Nova Tarefa</string>
+<string name="label_title">Título</string>
+<string name="label_description">Descrição</string>
+<string name="label_priority">Prioridade</string>
+<string name="button_add">Adicionar</string>
+<string name="button_cancel">Cancelar</string>
+
+<!-- Prioridades -->
+<string name="priority_high">ALTA</string>
+<string name="priority_medium">MÉDIA</string>
+<string name="priority_low">BAIXA</string>
+
+<!-- Tela de Detalhes -->
+<string name="title_task_details">Detalhes da Tarefa</string>
+<string name="back">Voltar</string>
+<string name="section_description">Descrição</string>
+<string name="section_information">Informações</string>
+<string name="no_description">Sem descrição</string>
+
+<!-- Informações da Tarefa -->
+<string name="info_status">Status</string>
+<string name="info_priority">Prioridade</string>
+<string name="info_created_at">Criada em</string>
+<string name="status_completed">Concluída</string>
+<string name="status_pending">Pendente</string>
+
+<!-- Ações -->
+<string name="action_complete">Concluir</string>
+<string name="action_uncomplete">Desmarcar</string>
+<string name="action_delete">Excluir</string>
+<string name="delete_task">Excluir tarefa</string>
+
+<!-- Content Descriptions -->
+<string name="cd_task_completed">Tarefa concluída</string>
+<string name="cd_task_pending">Tarefa pendente</string>
+</resources>
