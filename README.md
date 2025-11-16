@@ -122,7 +122,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Desenvolvido com ☕ e 💙
 
 - GitHub: [@natsalete](https://github.com/natsalete)
-- LinkedIn: [Natália Santos](https://www.linkedin.com/in/natalia-salete-rodrigues/)
+- LinkedIn: [Natália Salete](https://www.linkedin.com/in/natalia-salete-rodrigues/)
 - Email: natsalete14@gmail.com
 
 ---
@@ -268,7 +268,7 @@ This project is under the MIT License. See the [LICENSE](LICENSE) file for more 
 Developed with ☕ and 💙
 
 - GitHub: [@natsalete](https://github.com/natsalete)
-- LinkedIn: [Natália Santos](https://www.linkedin.com/in/natalia-salete-rodrigues/)
+- LinkedIn: [Natália Salete](https://www.linkedin.com/in/natalia-salete-rodrigues/)
 - Email: natsalete14@gmail.com
 
 ---
